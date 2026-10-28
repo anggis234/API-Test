@@ -1,7 +1,4 @@
 # Swagger Petstore API Automation Testing - Playwright TypeScript
-
-Proyek pengujian otomatisasi API berbasis **Playwright** dan **TypeScript** untuk **Swagger Petstore API** (`https://petstore.swagger.io/v2`). Repositori ini mengimplementasikan standar arsitektur teruji yang diadaptasi dari repositori pengujian UI (`testIndico`), mencakup API Client helper, custom fixture injection, step-by-step reporting, test plans lengkap, dan dokumentasi bug report.
-
 ---
 
 ## 📁 Struktur Proyek
