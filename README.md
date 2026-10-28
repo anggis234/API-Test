@@ -86,10 +86,4 @@ Jalankan perintah:
 ```bash
 npx playwright show-report
 ```
-
-### Fitur Laporan:
-1. **Granular Steps (`test.step`)**: Pembagian langkah request dan assertion per test case secara runtut.
-2. **Timing & Metrics**: Durasi eksekusi per HTTP request dan verifikasi.
-3. **Trace Viewer & Request Payloads**: Inspeksi detail header, payload JSON, dan response body secara visual.
-
 ---
